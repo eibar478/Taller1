@@ -1,0 +1,374 @@
+p {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 12px;
+}
+
+table {
+  border-spacing: 20px;
+  color: grey;
+}
+
+h1 {
+  text-align: center;
+  font-family: Verdana;
+  position: sticky;
+}
+
+.img1 {
+  text-align: center;
+  top: 100px;
+}
+
+td.nombre {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 35px;
+  padding-bottom: 5px;
+  top: 100px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  position: absolute;
+  margin-top: 200px;
+  margin-bottom: 120px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.fechanac {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 11px;
+  padding-right: 58px;
+  padding-bottom: 5px;
+  top: 100px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  position: absolute;
+  margin-top: 240px;
+  margin-bottom: 120px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.cedula {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 98px;
+  padding-bottom: 5px;
+  top: 35px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  position: absolute;
+  margin-top: 350px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.correo {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 45px;
+  padding-bottom: 5px;
+  top: 50px;
+  margin-bottom: 150px;
+  margin-left: 150px;
+  position: absolute;
+  margin-top: 380px;
+  margin-bottom: 120px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+p.perfil {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 10px;
+  padding-left: 43px;
+  padding-right: 100px;
+  padding-bottom: 5px;
+  top: -70px;
+  margin-left: 180px;
+  position: absolute;
+  margin-top: 560px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 20px;
+  border-radius: 15px;
+  width: 800px;
+  height: 80px;
+  text-align: center;
+}
+
+a.button {
+  top: 20px;
+  margin-bottom: 150px;
+  margin-left: 450px;
+  position: absolute;
+  margin-top: 620px;
+  margin-bottom: 100px;
+}
+
+a.button2 {
+  top: 20px;
+  margin-bottom: 150px;
+  margin-left: 530px;
+  position: absolute;
+  margin-top: 620px;
+  margin-bottom: 100px;
+}
+
+a.button3 {
+  top: 20px;
+  margin-bottom: 150px;
+  margin-left: 610px;
+  position: absolute;
+  margin-top: 620px;
+  margin-bottom: 100px;
+}
+
+td.pst1 {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 100px;
+  padding-bottom: 5px;
+  top: 0px;
+  margin-bottom: 150px;
+  margin-left: 370px;
+  position: absolute;
+  margin-top: 300px;
+  margin-bottom: 120px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.pst2 {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 50px;
+  padding-bottom: 5px;
+  top: 20px;
+  margin-bottom: 280px;
+  margin-left: 370px;
+  position: absolute;
+  margin-top: 320px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.pst3 {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 63px;
+  padding-bottom: 5px;
+  top: 35px;
+  margin-bottom: 140px;
+  margin-left: 370px;
+  position: absolute;
+  margin-top: 350px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.primaria {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 121px;
+  padding-bottom: 5px;
+  top: 0px;
+  margin-bottom: 150px;
+  margin-left: 593px;
+  position: absolute;
+  margin-top: 300px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.secundaria {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 106px;
+  padding-bottom: 5px;
+  top: 20px;
+  margin-bottom: 150px;
+  margin-left: 593px;
+  position: absolute;
+  margin-top: 320px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.profesional {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 106px;
+  padding-bottom: 5px;
+  top: 35px;
+  margin-bottom: 150px;
+  margin-left: 593px;
+  position: absolute;
+  margin-top: 350px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.telefono {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 100px;
+  padding-bottom: 5px;
+  top: 0px;
+  margin-bottom: 150px;
+  margin-left: 815px;
+  position: absolute;
+  margin-top: 300px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.email {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 48px;
+  padding-bottom: 5px;
+  top: 20px;
+  margin-bottom: 150px;
+  margin-left: 815px;
+  position: absolute;
+  margin-top: 320px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+td.emaili {
+  border: 1px solid gray;
+  padding: 0px;
+  padding-top: 1px;
+  padding-left: 10px;
+  padding-right: 47px;
+  padding-bottom: 5px;
+  top: 35px;
+  margin-bottom: 1px;
+  margin-left: 815px;
+  position: absolute;
+  margin-top: 350px;
+  margin-bottom: 100px;
+  color: gray;
+  font-style: bold;
+  font-size: 13px;
+}
+
+th.nom {
+  position: absolute;
+  color: green;
+  font-style: bold;
+  font-size: 15px;
+  left: 165px;
+  top: 275px;
+}
+
+th.pasat {
+  position: absolute;
+  color: green;
+  font-style: bold;
+  font-size: 15px;
+  left: 415px;
+  top: 275px;
+}
+
+th.est {
+  position: absolute;
+  color: green;
+  font-style: bold;
+  font-size: 15px;
+  left: 650px;
+  top: 275px;
+}
+
+th.con {
+  position: absolute;
+  color: green;
+  font-style: bold;
+  font-size: 15px;
+  left: 870px;
+  top: 275px;
+}
+
+.name .contenido {
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  left: 22%;
+  top: 22%;
+  font-family: Verdana;
+  color: gray;
+  font-size: 5px;
+}
+
+.name .img {
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  border-radius: 100%;
+  top: 12%;
+  left: 10%;
+  overflow: hidden;
+}
+
+.name .img img {
+  width: 180px;
+  height: 180px;
+}
+
+h2.tamb {
+  position: absolute;
+  color: gray;
+  font-style: bold;
+  font-size: 20px;
+  left: 500px;
+  top: 610px;
+}
